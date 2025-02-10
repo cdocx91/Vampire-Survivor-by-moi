@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6ca8de75f30d724caba18ab94a85f28, type: 3}
+  m_Name: AttackSpeed
+  m_EditorClassIdentifier: 
+  upgradeName: AttackSpeed
+  description: Give +0.2 AttackSpeed
+  icon: {fileID: 8161563276205665668, guid: c0301de264c86484ea7f3ef0d2dab855, type: 3}
+  effectValue: 0.2
+  upgradeType: 1
+  levelRequirement: 0
+  isExpPassive: 0
+  expPerTick: 0
+  isHealthRegen: 0
+  hpPerTick: 0

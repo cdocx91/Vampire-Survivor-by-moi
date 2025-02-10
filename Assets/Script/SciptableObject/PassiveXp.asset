@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6ca8de75f30d724caba18ab94a85f28, type: 3}
+  m_Name: PassiveXp
+  m_EditorClassIdentifier: 
+  upgradeName: AI Learning
+  description: Gain 1 Xp every 3s
+  icon: {fileID: -6405280447011044594, guid: eb42c83212d7ccc47b4cb0252b27bd8f, type: 3}
+  effectValue: 0
+  upgradeType: 5
+  levelRequirement: 0
+  isExpPassive: 1
+  expPerTick: 1
+  isHealthRegen: 0
+  hpPerTick: 0

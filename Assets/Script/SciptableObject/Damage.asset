@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6ca8de75f30d724caba18ab94a85f28, type: 3}
+  m_Name: Damage
+  m_EditorClassIdentifier: 
+  upgradeName: Damage
+  description: Give +10 damage
+  icon: {fileID: -1959616729261103466, guid: a3fcddb2d891d09429d479917d17849e, type: 3}
+  effectValue: 10
+  upgradeType: 0
+  levelRequirement: 0
+  isExpPassive: 0
+  expPerTick: 0
+  isHealthRegen: 0
+  hpPerTick: 0
